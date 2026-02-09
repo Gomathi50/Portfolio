@@ -20,7 +20,7 @@ body{
     min-height: 590px;
     border: 1px solid black;
     position: relative;
-    background-image: url(./black.gif);;
+    background-image: url(./black.gif);
 }
 
 nav {
